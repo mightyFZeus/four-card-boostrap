@@ -1,0 +1,24 @@
+.heading{
+	text-align: center;
+	margin-bottom: 50px;
+}
+ html,body{
+	font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  min-height: 100vh;
+  background: hsl(0, 0%, 98%)
+}
+
+
+.col-md-4{
+	background-color: white;
+	border: 5px solid white;
+	border-radius: 10px;
+	
+	margin: 10px;
+	
+}
+
+img{
+	margin-left: 250px;
+}
